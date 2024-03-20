@@ -16,20 +16,3 @@ HTTP2:
        4.Server solves this problem by allowing "PUSH" content to before the client asks for it.
        5.The primear goals for http2 request and response multiplexing minimize protocol over head and add support for request priorization and server push.
        6.It has revolutionized web performance by introducing multiplexing,a binary protocol,header,comprehension,server push and stream priorization and new era of faster and more efficient web communucation.
-
-
-
-2.Write a blog about objects and its internal representation in Javascript
-     
-     1.Objects is one of the important datatype in javascript.
-     2.Objects are different then primitive datatypes. 
-     3.Every object have property and value .This values can be accesed using this properties.
-     4.Anymore an object is a group of data and stored as a serious of name value pairs encapsulated in one entity.
-     5.Different ways of creating an object in JS.
-        i write 1  methods only.if you want many methods please refer websites.
-                1.Using the object of constructer 
-                Syntax:
-                    variable datatype variable name=new object();
-                        new is a keyword
-                        when we are type new keyword object will be created and constructer will be call automatically.
-
